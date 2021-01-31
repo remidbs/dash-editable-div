@@ -1,0 +1,13 @@
+Package: dashEditableDiv
+Title: Editable HTML component for enhanced TextArea components
+Version: 0.0.1
+Description: Editable HTML component for enhanced TextArea components
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/remidbs/dash-editable-div
+BugReports: https://github.com/remidbs/dash-editable-div/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

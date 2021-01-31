@@ -1,0 +1,7 @@
+include dash_editable_div/dash_editable_div.min.js
+include dash_editable_div/dash_editable_div.min.js.map
+include dash_editable_div/metadata.json
+include dash_editable_div/package-info.json
+include README.md
+include LICENSE
+include package.json
